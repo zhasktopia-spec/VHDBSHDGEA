@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/raw",
-      "destination": "/api/raw.lua"
+      "source": "/violencedistrictnew",
+      "destination": "/api/violencedistrictnew.lua"
     }
   ],
   "headers": [
